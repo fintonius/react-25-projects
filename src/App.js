@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       {/* Accordian component */}
-      <Accordian />
+      {/* <Accordian /> */}
       {/* Random Colour component */}
       <RandomColor />
     </div>
